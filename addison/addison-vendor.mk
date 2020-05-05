@@ -168,7 +168,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/addison/proprietary/vendor/lib/hw/libcamera_mods_legacy_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libcamera_mods_legacy_hal.so \
     vendor/motorola/addison/proprietary/vendor/lib/hw/motorola.hardware.camera.provider@2.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/motorola.hardware.camera.provider@2.4-impl.so \
     vendor/motorola/addison/proprietary/vendor/lib/hw/motorola.hardware.mods_camera.provider@2.4-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/motorola.hardware.mods_camera.provider@2.4-impl.so \
-    #vendor/motorola/addison/proprietary/vendor/lib/hw/thermal.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.msm8953.so
     vendor/motorola/addison/proprietary/vendor/lib/hw/vendor.qti.gnss@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.gnss@1.0-impl.so \
     vendor/motorola/addison/proprietary/vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so \
     vendor/motorola/addison/proprietary/vendor/lib/hw/vulkan.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.msm8953.so \
@@ -278,7 +277,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/addison/proprietary/vendor/lib/libgpustats.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgpustats.so \
     vendor/motorola/addison/proprietary/vendor/lib/libgralloc1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloc1.so \
     vendor/motorola/addison/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
-    vendor/motorola/addison/proprietary/vendor/lib/libgui_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgui_vendor.so \
     vendor/motorola/addison/proprietary/vendor/lib/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libidl.so \
     vendor/motorola/addison/proprietary/vendor/lib/libizat_client_api.so:$(TARGET_COPY_OUT_VENDOR)/lib/libizat_client_api.so \
     vendor/motorola/addison/proprietary/vendor/lib/libizat_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libizat_core.so \
